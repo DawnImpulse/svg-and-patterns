@@ -9,8 +9,15 @@ This is a great site for generating lots of unique patterns (eg shown below).
 
 ![[Tabloid](https://tabbied.com/)](https://i.postimg.cc/vBMV75vN/uses-packaging.webp)
 
-#### [Squircly](https://squircley.app/)
-Generate unique square svg shapes
+#### [Patterns](https://products.ls.graphics/paaatterns/)
+Lots of free patterns in all vector formats & for figma/xd/sketch/ai
+
+![](https://i.postimg.cc/0j3k2qXq/2021-06-12-13-37-23-Window.png)
+
+#### Geometric Patterns (PAID)
+Contains lots of patterns to use
+
+![](https://i.postimg.cc/QtQ1TfGP/Geometric-background-patterns-for-websites-lg.jpg)
 
 #### [Haikei](https://app.haikei.app/)
 You want unique backgrounds for your website. This is the best place to be.
@@ -41,6 +48,16 @@ A great desktop tool to manage your Svgs
 
 ![](https://i.postimg.cc/7hRcTPym/28-svg-generators.png)
 
+#### [Texturs.js](https://riccardoscalco.it/textures/)
+SVG patterns for Data Visualization
+
+![](https://i.postimg.cc/R0D4Tm9J/2021-06-12-13-40-12-Window.png)
+
+#### [Hero Patterns SCSS](https://www.npmjs.com/package/hero-patterns-scss)
+Hero Patterns SCSS makes it easy to add SVG background patterns to your stylesheets with one simple Sass function
+
+![](https://i.postimg.cc/QdCzJTMS/2021-06-12-13-42-08-Window.png)
+
 #### [Favicon](https://formito.com/tools/favicon)
 Just used to create simple favicons for anything you want
 
@@ -55,6 +72,9 @@ Create svg graphs from your data points.
 Now this is something else entirely. It basically creates svg lattices all around an image. Can't even explain with words. Check it out.
 
 ![enter image description here](https://i.postimg.cc/0QFrWmGv/2021-06-12-13-22-40-Window.png)
+
+#### [Squircly](https://squircley.app/)
+Generate unique square svg shapes
 
 #### [George Francis](https://georgefrancis.dev/)
 This guy has created lots of unique svg libraries
